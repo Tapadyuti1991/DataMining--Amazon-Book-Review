@@ -1,0 +1,1 @@
+You can run the python file using command prompt or the jupyter notebooks using Jupyter.

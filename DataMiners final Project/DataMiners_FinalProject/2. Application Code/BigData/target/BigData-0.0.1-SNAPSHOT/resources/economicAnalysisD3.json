@@ -1,0 +1,1260 @@
+{
+    "type": "economicAnalysisD3",
+    "details": [
+        {
+            "Year": "2015",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "237.642",
+                        "population": "322015",
+                        "cpi": "191.6"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "2287.8",
+                                "population": "2822.4",
+                                "cpi": "5.6"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "2298.6",
+                                "population": "2807.5",
+                                "cpi": "5.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "2259.1",
+                                "population": "2782.5",
+                                "cpi": "5.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "2211.7",
+                                "population": "2732.6",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "235.409",
+                        "population": "320771",
+                        "cpi": "191.5"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "2287.8",
+                                "population": "2822.4",
+                                "cpi": "5.6"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "2298.6",
+                                "population": "2807.5",
+                                "cpi": "5.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "2259.1",
+                                "population": "2782.5",
+                                "cpi": "5.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "2211.7",
+                                "population": "2732.6",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "ppi": "238.097",
+                        "population": "321337",
+                        "cpi": "185.6"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "2287.8",
+                                "population": "2822.4",
+                                "cpi": "5.6"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "2298.6",
+                                "population": "2807.5",
+                                "cpi": "5.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "2259.1",
+                                "population": "2782.5",
+                                "cpi": "5.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "2211.7",
+                                "population": "2732.6",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "ppi": "236.832",
+                        "population": "321337",
+                        "cpi": "193"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "2287.8",
+                                "population": "2822.4",
+                                "cpi": "5.6"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "2298.6",
+                                "population": "2807.5",
+                                "cpi": "5.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "2259.1",
+                                "population": "2782.5",
+                                "cpi": "5.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "2211.7",
+                                "population": "2732.6",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Year": "2005",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "158.7",
+                        "population": "296340",
+                        "cpi": "196.6"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "1268.2",
+                                "population": "1945.0",
+                                "cpi": "5.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "1300.1",
+                                "population": "1989.2",
+                                "cpi": "5.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "1310.9",
+                                "population": "2042.3",
+                                "cpi": "5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "1356.4",
+                                "population": "2143.9",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "152.1",
+                        "population": "294957",
+                        "cpi": "192.367"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "1268.2",
+                                "population": "1945.0",
+                                "cpi": "5.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "1300.1",
+                                "population": "1989.2",
+                                "cpi": "5.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "1310.9",
+                                "population": "2042.3",
+                                "cpi": "5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "1356.4",
+                                "population": "2143.9",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "cpi": "152.1",
+                        "population": "294957",
+                        "ppi": "192.367"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "1268.2",
+                                "population": "1945.0",
+                                "cpi": "5.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "1300.1",
+                                "population": "1989.2",
+                                "cpi": "5.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "1310.9",
+                                "population": "2042.3",
+                                "cpi": "5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "1356.4",
+                                "population": "2143.9",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "cpi": "164.3",
+                        "population": "297086",
+                        "ppi": "198.433"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "1268.2",
+                                "population": "1945.0",
+                                "cpi": "5.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "1300.1",
+                                "population": "1989.2",
+                                "cpi": "5.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "1310.9",
+                                "population": "2042.3",
+                                "cpi": "5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "1356.4",
+                                "population": "2143.9",
+                                "cpi": "5"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "Year": "1995",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "1065032276",
+                        "population": "5476303308",
+                        "cpi": "323469933"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "7479460863",
+                        "population": "29508476642",
+                        "cpi": "923912091"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "ppi": "685125557",
+                        "population": "2736866482",
+                        "cpi": "403248694"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "ppi": "1455725779",
+                        "population": "6297102354",
+                        "cpi": "316693903"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "6171573995",
+                                "population": "23123700426",
+                                "cpi": "462233127"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "Year": "1985",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389",
+                "PayoutToForeignCarriers": "3029863946",
+                "RetainedRevenues": "903686443"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "107.9",
+                        "population": "238789",
+                        "cpi": "102.7"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "306",
+                                "population": "397.3",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "304.1",
+                                "population": "418.6",
+                                "cpi": "7.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "297.3",
+                                "population": "414.2",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "305.4",
+                                "population": "438.9",
+                                "cpi": "7"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "106.267",
+                        "population": "237673",
+                        "cpi": "103.3"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "306",
+                                "population": "397.3",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "304.1",
+                                "population": "418.6",
+                                "cpi": "7.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "297.3",
+                                "population": "414.2",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "305.4",
+                                "population": "438.9",
+                                "cpi": "7"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "ppi": "109",
+                        "population": "239387",
+                        "cpi": "103.3"
+                    },
+                    "RegionDetail":[
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "306",
+                                "population": "397.3",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "304.1",
+                                "population": "418.6",
+                                "cpi": "7.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "297.3",
+                                "population": "414.2",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "305.4",
+                                "population": "438.9",
+                                "cpi": "7"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "ppi": "107.233",
+                        "population": "238176",
+                        "cpi": "103.4"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "306",
+                                "population": "397.3",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "304.1",
+                                "population": "418.6",
+                                "cpi": "7.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "297.3",
+                                "population": "414.2",
+                                "cpi": "7.2"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "305.4",
+                                "population": "438.9",
+                                "cpi": "7"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+
+        ,
+        {
+            "Year": "1975",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "54.267",
+                        "population": "216289",
+                        "cpi": "59"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "141.4",
+                                "population": "124.9",
+                                "cpi": "8.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "136.8",
+                                "population": "115.2",
+                                "cpi": "8.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "134.1",
+                                "population": "122.1",
+                                "cpi": "8.5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "142.5",
+                                "population": "128.7",
+                                "cpi": "8.3"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "52.567",
+                        "population": "215135",
+                        "cpi": "57.2"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "141.4",
+                                "population": "124.9",
+                                "cpi": "8.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "136.8",
+                                "population": "115.2",
+                                "cpi": "8.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "134.1",
+                                "population": "122.1",
+                                "cpi": "8.5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "142.5",
+                                "population": "128.7",
+                                "cpi": "8.3"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "ppi": "55.267",
+                        "population": "216848",
+                        "cpi": "59.7"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "141.4",
+                                "population": "124.9",
+                                "cpi": "8.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "136.8",
+                                "population": "115.2",
+                                "cpi": "8.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "134.1",
+                                "population": "122.1",
+                                "cpi": "8.5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "142.5",
+                                "population": "128.7",
+                                "cpi": "8.3"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "ppi": "53.2",
+                        "population": "215652",
+                        "cpi": "57.8"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "141.4",
+                                "population": "124.9",
+                                "cpi": "8.3"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "136.8",
+                                "population": "115.2",
+                                "cpi": "8.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "134.1",
+                                "population": "122.1",
+                                "cpi": "8.5"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "142.5",
+                                "population": "128.7",
+                                "cpi": "8.3"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+
+        ,
+        {
+            "Year": "1965",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "31.583",
+                        "population": "194647",
+                        "cpi": "32.4"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "33.1",
+                                "population": "28.5",
+                                "cpi": "4.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "39.1",
+                                "population": "31.7",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "36.9",
+                                "population": "32",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "39.5",
+                                "population": "33.9",
+                                "cpi": "4.1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "31.9",
+                        "population": "193467",
+                        "cpi": "31.29"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "33.1",
+                                "population": "28.5",
+                                "cpi": "4.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "39.1",
+                                "population": "31.7",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "36.9",
+                                "population": "32",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "39.5",
+                                "population": "33.9",
+                                "cpi": "4.1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "ppi": "31.75",
+                        "population": "195279",
+                        "cpi": "32.6"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "33.1",
+                                "population": "28.5",
+                                "cpi": "4.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "39.1",
+                                "population": "31.7",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "36.9",
+                                "population": "32",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "39.5",
+                                "population": "33.9",
+                                "cpi": "4.1"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "ppi": "31.49",
+                        "population": "193994",
+                        "cpi": "32.2"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "33.1",
+                                "population": "28.5",
+                                "cpi": "4.9"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "39.1",
+                                "population": "31.7",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "36.9",
+                                "population": "32",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "39.5",
+                                "population": "33.9",
+                                "cpi": "4.1"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "Year": "1955",
+            "WorldTotals": {
+                "ppi": "16297438469",
+                "population": "73678196601",
+                "cpi": "3933550389"
+            },
+            "Regions": [
+                {
+                    "RegionName": "Q3",
+                    "RegionTotals": {
+                        "ppi": "26.777",
+                        "population": "165674",
+                        "cpi": "29.4"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "17.3",
+                                "population": "16.2",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "16.9",
+                                "population": "17.1",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "18.1",
+                                "population": "17.4",
+                                "cpi": "4.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "18.3",
+                                "population": "18.1",
+                                "cpi": "4.2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q1",
+                    "RegionTotals": {
+                        "ppi": "26.793",
+                        "population": "164266",
+                        "cpi": "29.2"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "17.3",
+                                "population": "16.2",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "16.9",
+                                "population": "17.1",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "18.1",
+                                "population": "17.4",
+                                "cpi": "4.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "18.3",
+                                "population": "18.1",
+                                "cpi": "4.2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q4",
+                    "RegionTotals": {
+                        "ppi": "26.857",
+                        "population": "166481",
+                        "cpi": "29.5"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "17.3",
+                                "population": "16.2",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "16.9",
+                                "population": "17.1",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "18.1",
+                                "population": "17.4",
+                                "cpi": "4.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "18.3",
+                                "population": "18.1",
+                                "cpi": "4.2"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "RegionName": "Q2",
+                    "RegionTotals": {
+                        "ppi": "26.757",
+                        "population": "164926",
+                        "cpi": "29.2"
+                    },
+                    "RegionDetail": [
+                        {
+                            "CountryName": "Q1",
+                            "CountryDetail": {
+                                "ppi": "17.3",
+                                "population": "16.2",
+                                "cpi": "4.7"
+                            }
+                        },
+                        {
+                            "CountryName": "Q2",
+                            "CountryDetail": {
+                                "ppi": "16.9",
+                                "population": "17.1",
+                                "cpi": "4.4"
+                            }
+                        },
+                        {
+                            "CountryName": "Q3",
+                            "CountryDetail": {
+                                "ppi": "18.1",
+                                "population": "17.4",
+                                "cpi": "4.1"
+                            }
+                        },
+                        {
+                            "CountryName": "Q4",
+                            "CountryDetail": {
+                                "ppi": "18.3",
+                                "population": "18.1",
+                                "cpi": "4.2"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
