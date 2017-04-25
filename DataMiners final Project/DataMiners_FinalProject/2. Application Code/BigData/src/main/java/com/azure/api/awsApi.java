@@ -56,13 +56,13 @@ public class awsApi extends Thread{
     /*
      * Your AWS Access Key ID, as taken from the AWS Your Account page.
      */
-    private static final String AWS_ACCESS_KEY_ID = "AKIAJLKCTNZ42G5C5IEA";
+    private static final String AWS_ACCESS_KEY_ID = "";
 
     /*
      * Your AWS Secret Key corresponding to the above ID, as taken from the AWS
      * Your Account page.
      */
-    private static final String AWS_SECRET_KEY = "Nu5oWUODRD01Hm+J56Q+X/dArFjCkFgergjtoDi5";
+    private static final String AWS_SECRET_KEY = "";
 
     /*
      * Use one of the following end-points, according to the region you are
