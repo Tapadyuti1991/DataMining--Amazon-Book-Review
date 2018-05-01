@@ -12,10 +12,9 @@ Find out the incentive users.
 **Problem Statement**
 
 >Online reviews play a very important role in information dissemination and play a major role in influencing a user’s decision while buying a product. However, a user may only read a limited number of reviews before deciding to purchase an item. An important aspect to the success of a rating and reviews portal for amazon is to identify which reviews to promote as being useful. The main goal of our project is to analyze the Amazon Books Dataset based on the user’s ratings and reviews and host the results on our web application for a publisher to analyze and determine the usefulness of a review. By law, these incentivized reviews must also be disclosed to the public to avoid dishonest sales practices.
-
 For publishers to improve their book sales they need tools to carefully analyze the review data and study market behavior based on the reviews and the ratings users provide. This has made it essential to have enough tools so that the users and the publishers can easily analyze the data and derive meaningful results.
 
-**Files to Look at **
+**Files to Look at**
 Detail report is avlaible in Team_4_DataMiners.pdf
 
 **Screenshot**
