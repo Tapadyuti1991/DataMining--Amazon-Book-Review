@@ -1,5 +1,5 @@
-# DataMiners7250
-Big Data Final Project - DataMiners 
+# DataMining Project - Amazon Book Review Big Data Final Project 
+
 Evaluates the rating of Books given by Users by Sentiment Analysis and normalisation of Rating of each books is being done. 
 Find out the incentive users.
 
