@@ -4,8 +4,11 @@ Evaluates the rating of Books given by Users by Sentiment Analysis and normalisa
 Find out the incentive users.
 
 >Map- Reduce to Clean the data 
+
 >Stanford NLP APi is being Used for effective text analysis  due its implemented RNN at the backend.
+
 >Match Box Recommendation for new books suggestions to Users
+
 >Webapp Hosted on Spring hibernate and Mongo Db as Database 
 
 
